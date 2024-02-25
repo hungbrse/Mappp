@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RecoMap</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_map_edit_acticity">MapEditActicity</string>
+    <string-array name="category_array">
+        <item>ラーメン屋</item>
+        <item>コンビニ</item>
+        <item>日本電子建物</item>
+        <!-- Thêm các danh mục khác nếu cần -->
+    </string-array>
+</resources>
